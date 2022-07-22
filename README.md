@@ -18,5 +18,7 @@ Kaggle's Fake and real news dataset to train a Logistic Regression Model, which 
 
 ## Screenshots
 
+Prediction result 
+
 ![Result Screenshot](https://github.com/Nikhil-void/Fake-News-Detection/blob/main/Prediction_Result.png)
 
